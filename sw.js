@@ -1,4 +1,4 @@
-const CACHE_NAME="stumpy-selector-v1";
+const CACHE_NAME="stumpy-selector-v3";
 const ASSETS=[
   "./",
   "./index.html",
